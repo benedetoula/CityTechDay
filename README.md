@@ -6,7 +6,7 @@ This is where you can find the resources from the 1hr workshop hosted at CityTec
 
 # AT Commands 
 
-- [Quectel AT Commands](http://arduino.cc/en/uploads/Main/Quectel_M10_AT_commands.pdf)
+[Quectel AT Commands](http://arduino.cc/en/uploads/Main/Quectel_M10_AT_commands.pdf)
 
 # Useful resources 
 
