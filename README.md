@@ -14,7 +14,6 @@ This is where you can find the resources from the 1hr workshop hosted at CityTec
 - [Adafruit](https://www.adafruit.com/) has a wealth of hardware & amazing tutorials
 - [SparkFun](https://www.sparkfun.com/) is another source of parts and tutorials
 - [Instructables](http://www.instructables.com/) is a wonderful resource for projects
-- [ITP Physical Computing](https://itp.nyu.edu/physcomp/) has notes, labs & instructional videos
 
 
 
